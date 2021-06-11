@@ -17,7 +17,7 @@
     "axios": "0.20.0",
     "fuse.js": "^6.4.6",
     "lodash": "^4.17.15",
-    "lucene-filter": "0.1.3",
+    "lucene-filter": "0.2.4",
     "lucene-query-parser": "1.2.0",
     "markdown-it": "^8.4.1",
     "markdown-it-anchor": "^5.0.2",
