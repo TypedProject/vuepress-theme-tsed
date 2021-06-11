@@ -4,7 +4,7 @@
 
 Run:
 ```bash
-npm install --save-dev @vuepress-theme-tsed
+npm install --save-dev vuepress-theme-tsed
 ```
 
 Then create or edit enhanceApp.js in your `.vuepress` directory and import the theme:
