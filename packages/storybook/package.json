@@ -35,7 +35,7 @@
     "postcss-for": "2.1.1",
     "postcss-import": "12.0.1",
     "postcss-mixins": "6.2.3",
-    "postcss-nested": "4.2.1",
+    "postcss-nested": "5.0.5",
     "postcss-omit-import-tilde": "1.0.1",
     "storybook-vue-router": "1.0.7",
     "vue-loader": "^15.9.2",
